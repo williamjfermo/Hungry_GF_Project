@@ -16,7 +16,7 @@ The purpose of this project is to model a predictor of final choice that will ac
 
 
 ## Project Description
-Main use of project was fun way of dealing with categorical data given gf's responses.  I will show different encoding techniques and explain their purpose
+Main use of project was fun way of dealing with categorical data given gf's responses.  I will show different encoding techniques and explain their purpose.
 ## Needs of this project
 
 - Get data from a hungry gf
