@@ -36,7 +36,8 @@ Main use of project was fun way of dealing with categorical data given gf's resp
 
 ## Featured Notebooks
 * Working_with_cat_data_and_a_hungry_gf.ipynb is found here https://github.com/williamjfermo/Hungry_GF_Project/blob/master/Workign_with_cat_data_and_a_hungry_gf.ipynb
-* Kaggle notebook here https://www.kaggle.com/williamjfermo/working-with-categorical-data-and-a-hungry-gf
+* Kaggle notebook here  
+https://www.kaggle.com/williamjfermo/working-with-categorical-data-and-a-hungry-gf
 
 
 ## Analysis
